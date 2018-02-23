@@ -1,0 +1,31 @@
+@import url("../fonts/fonts.css");
+
+body {
+	font-family: "MyriadPro";
+	padding-top: 100px;
+}
+
+.underlined {
+	text-decoration: underline;
+	margin-top: 15px;
+}
+
+label {
+	font-size: 17px;
+}
+
+.form-inline label {
+	margin-right: 10px;
+}
+
+.btn .btn-success {
+	margin-top: 10px;
+}
+
+.radio label {
+	padding-left: 10px;
+}
+
+.sharespace {
+	width: 40%;
+}
