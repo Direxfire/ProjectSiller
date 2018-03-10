@@ -1,0 +1,7 @@
+<div class="col-md-4">
+  <label for="levitate">Park?</label>
+  <div class="radio" data-toggle="buttons">
+    <label class="radio-inline btn btn-success sharespace"><input class="sr-only" type="radio" name="park" value="1" id="park" required>Yes</label>
+    <label class="radio-inline btn btn-danger sharespace"><input class="sr-only" type="radio" name="park" value="0" id="park" required>No</label>
+  </div>
+</div>

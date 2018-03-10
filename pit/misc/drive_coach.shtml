@@ -1,0 +1,11 @@
+<div class="form-group col-md-3">
+  <label for="autoline">Drive Coach?</label>
+  <div class="radio" data-toggle="buttons">
+    <label class="radio-inline btn btn-success sharespace">
+      <input type="radio" name="drive_coach" value="1" required>Mentor
+    </label>
+    <label class="radio-inline btn btn-danger sharespace">
+      <input type="radio" name="drive_coach" value="0" required>Student
+    </label>
+  </div>
+  </div>

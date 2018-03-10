@@ -1,0 +1,11 @@
+<div class="form-group col-md-3">
+  <label for="autoline">Use Vision?</label>
+  <div class="radio" data-toggle="buttons">
+    <label class="radio-inline btn btn-success sharespace">
+      <input type="radio" name="vision" value="1" required>Yes
+    </label>
+    <label class="radio-inline btn btn-danger sharespace">
+      <input type="radio" name="vision" value="0" required>No
+    </label>
+  </div>
+  </div>

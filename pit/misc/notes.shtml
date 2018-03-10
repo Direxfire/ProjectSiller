@@ -1,0 +1,3 @@
+<div class="form-group">
+  <textarea class="form-control" rows="5" name= 'pitnotes' id="pit_notes" placeholder="Any notes from pit scouting..." ></textarea>
+</div>
